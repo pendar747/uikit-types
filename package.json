@@ -1,0 +1,51 @@
+{
+  "name": "@types/uikit",
+  "version": "2.27.3",
+  "description": "TypeScript definitions for uikit",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Giovanni Silva",
+      "url": "https://github.com/giovannicandido"
+    },
+    {
+      "name": "Ivo Senner",
+      "url": "https://github.com/s0x"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/jquery": "*"
+  },
+  "peerDependencies": {},
+  "typesPublisherContentHash": "c0b818f87df884dd34e07a87e49b0e2cdb8d653f098fbf390d277ca57ed6f996",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/uikit@2.27.3",
+  "dist": {
+    "shasum": "7bc533492f13ea0324c34689731abe9ec636a95b",
+    "tarball": "https://registry.npmjs.org/@types/uikit/-/uikit-2.27.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/uikit-2.27.3.tgz_1490913821054_0.45791983720846474"
+  },
+  "directories": {},
+  "_shasum": "7bc533492f13ea0324c34689731abe9ec636a95b",
+  "_resolved": "https://registry.npmjs.org/@types/uikit/-/uikit-2.27.3.tgz",
+  "_from": "@types/uikit@>=2.27.0 <3.0.0"
+}
